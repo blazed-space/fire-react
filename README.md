@@ -5,6 +5,8 @@ The Fire bootstrap &amp; framework library for ReactJS
 This package uses:
 - [ReactJS](http://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
+- [Instant Page](https://instant.page/)
+- [HTML5 Shiv](https://github.com/aFarkas/html5shiv)
 
 ## Installing
 To install, run the following command at the root of the directory:
@@ -25,3 +27,17 @@ Then, run the following command:
 ```sh
 npm start
 ```
+
+## Deployment
+- **Netlify**:
+This project includes automatic setup for Netlify deployments. 
+- **Other**:
+To create a production build, run the following command:
+
+```sh
+npm run build
+```
+
+## Special Thanks
+- [Create React App](https://create-react-app.dev/)
+- [Netlify](https://netlify.com/)

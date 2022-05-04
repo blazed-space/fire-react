@@ -1,25 +1,21 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "fire-react",
+  "name": "Blazed Fire: React",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
+      "src": "https://blazed.sirv.com/logo/BLZ-blue.png?w=192&h=192",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://blazed.sirv.com/logo/Beaker-Dark.png?w=512&h=512",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "background_color": "#ffffff",
   "display": "standalone",
+  "scope": "/",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "description": "We turn Dreams into Reality."
 }
