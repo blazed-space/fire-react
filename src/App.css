@@ -7,3 +7,20 @@
   background: #000;
   color: #fff;
 }
+
+main{
+  max-width: 980px;
+  position: relative;
+  margin-left:auto;
+  margin-right:auto;
+  padding:10px;
+}
+
+main h1{
+  font-size:28px;
+}
+
+main p{
+  margin-top:10px;
+  margin-bottom:20px;
+}
